@@ -1,0 +1,23 @@
+.wrapper {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background: url('/assets/bg.jpg');
+  background-size: 100% 100%;
+
+  .error {
+    color: red;
+  }
+
+  .full-width {
+    width: 100%;
+    margin-top: 8px;
+  }
+
+  .register-link {
+    color: rgb(0, 110, 255);
+    margin-top: 4px;
+    cursor: pointer;
+  }
+}

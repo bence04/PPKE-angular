@@ -1,0 +1,22 @@
+<div class="wrapper">
+  <mat-card>
+    <mat-card-header>
+      <mat-card-title>Bejelentkezés</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <div class="error" *ngIf="errorMsg">
+        {{ errorMsg }}
+      </div>
+      <mat-form-field class="full-width">
+        <mat-label>Felhasználónév</mat-label>
+        <input matInput placeholder="Felhasználónév" [(ngModel)]="user.felhasznaloNev">
+      </mat-form-field>
+      <mat-form-field class="full-width">
+        <mat-label>Jelszó</mat-label>
+        <input type="password" matInput placeholder="Jelszó" [(ngModel)]="user.jelszo">
+      </mat-form-field>
+    </mat-card-content>
+    <button mat-raised-button color="primary" class="full-width" (click)="login()">Belépés</button>
+    <p class="register-link" (click)="register()">Nincs még felhasználód? Regisztrálj!</p>
+  </mat-card>
+</div>
