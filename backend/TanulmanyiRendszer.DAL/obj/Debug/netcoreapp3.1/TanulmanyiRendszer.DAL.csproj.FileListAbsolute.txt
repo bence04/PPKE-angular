@@ -1,0 +1,13 @@
+C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.DAL\bin\Debug\netcoreapp3.1\TanulmanyiRendszer.DAL.deps.json
+C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.DAL\bin\Debug\netcoreapp3.1\TanulmanyiRendszer.DAL.runtimeconfig.json
+C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.DAL\bin\Debug\netcoreapp3.1\TanulmanyiRendszer.DAL.runtimeconfig.dev.json
+C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.DAL\bin\Debug\netcoreapp3.1\TanulmanyiRendszer.DAL.dll
+C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.DAL\bin\Debug\netcoreapp3.1\TanulmanyiRendszer.DAL.pdb
+C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.DAL\bin\Debug\netcoreapp3.1\TanulmanyiRendszer.Domain.dll
+C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.DAL\bin\Debug\netcoreapp3.1\TanulmanyiRendszer.Domain.pdb
+C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.DAL\obj\Debug\netcoreapp3.1\TanulmanyiRendszer.DAL.csprojAssemblyReference.cache
+C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.DAL\obj\Debug\netcoreapp3.1\TanulmanyiRendszer.DAL.AssemblyInfoInputs.cache
+C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.DAL\obj\Debug\netcoreapp3.1\TanulmanyiRendszer.DAL.AssemblyInfo.cs
+C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.DAL\obj\Debug\netcoreapp3.1\TanulmanyiRendszer.DAL.csproj.CopyComplete
+C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.DAL\obj\Debug\netcoreapp3.1\TanulmanyiRendszer.DAL.dll
+C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.DAL\obj\Debug\netcoreapp3.1\TanulmanyiRendszer.DAL.pdb
