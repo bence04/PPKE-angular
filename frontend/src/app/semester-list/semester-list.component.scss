@@ -1,0 +1,19 @@
+.table {
+  width: 50%;
+  margin: auto;
+}
+
+
+.new-item {
+  width: 50%;
+  margin: 20px auto;
+
+  .full-width {
+    width: calc(100% - 100px - 20px);
+  }
+
+  .save-btn {
+    width: 100px;
+    margin-left: 20px;
+  }
+}

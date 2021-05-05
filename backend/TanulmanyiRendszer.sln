@@ -1,15 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30002.166
+VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TanulmanyiRendszer.API", "TanulmanyiRendszer.API\TanulmanyiRendszer.API.csproj", "{84EFB696-E29E-449C-9A6D-682CFB85D586}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TanulmanyiRendszer.Domain", "TanulmanyiRendszer.Domain\TanulmanyiRendszer.Domain.csproj", "{128D0B67-7780-4300-A480-6EC16E6448EF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TanulmanyiRendszer.BLL", "TanulmanyiRendszer.BLL\TanulmanyiRendszer.BLL.csproj", "{E64CE324-4C01-41F3-9CEA-D2CEF53E8EC0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TanulmanyiRendszer.DAL", "TanulmanyiRendszer.DAL\TanulmanyiRendszer.DAL.csproj", "{A41C094F-F2E6-4796-85C9-7A781AF09C15}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TanulmanyiRendszer.API", "TanulmanyiRendszer.API\TanulmanyiRendszer.API.csproj", "{9C84FACF-1BCB-46E7-BDC7-3ED258C941D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,27 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{84EFB696-E29E-449C-9A6D-682CFB85D586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{84EFB696-E29E-449C-9A6D-682CFB85D586}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{84EFB696-E29E-449C-9A6D-682CFB85D586}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{84EFB696-E29E-449C-9A6D-682CFB85D586}.Release|Any CPU.Build.0 = Release|Any CPU
-		{128D0B67-7780-4300-A480-6EC16E6448EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{128D0B67-7780-4300-A480-6EC16E6448EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{128D0B67-7780-4300-A480-6EC16E6448EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{128D0B67-7780-4300-A480-6EC16E6448EF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E64CE324-4C01-41F3-9CEA-D2CEF53E8EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E64CE324-4C01-41F3-9CEA-D2CEF53E8EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E64CE324-4C01-41F3-9CEA-D2CEF53E8EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E64CE324-4C01-41F3-9CEA-D2CEF53E8EC0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A41C094F-F2E6-4796-85C9-7A781AF09C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A41C094F-F2E6-4796-85C9-7A781AF09C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A41C094F-F2E6-4796-85C9-7A781AF09C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A41C094F-F2E6-4796-85C9-7A781AF09C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C84FACF-1BCB-46E7-BDC7-3ED258C941D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C84FACF-1BCB-46E7-BDC7-3ED258C941D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C84FACF-1BCB-46E7-BDC7-3ED258C941D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C84FACF-1BCB-46E7-BDC7-3ED258C941D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0F9DB1FF-5269-4FFE-B42B-73116186245C}
+		SolutionGuid = {6FC9E9BA-919B-4A94-9498-891B9C46A678}
 	EndGlobalSection
 EndGlobal

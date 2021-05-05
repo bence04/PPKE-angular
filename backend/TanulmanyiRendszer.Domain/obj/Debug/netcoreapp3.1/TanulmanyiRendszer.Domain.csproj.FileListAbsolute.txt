@@ -1,8 +1,0 @@
-C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.Domain\bin\Debug\netcoreapp3.1\TanulmanyiRendszer.Domain.deps.json
-C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.Domain\bin\Debug\netcoreapp3.1\TanulmanyiRendszer.Domain.dll
-C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.Domain\bin\Debug\netcoreapp3.1\TanulmanyiRendszer.Domain.pdb
-C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.Domain\obj\Debug\netcoreapp3.1\TanulmanyiRendszer.Domain.csprojAssemblyReference.cache
-C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.Domain\obj\Debug\netcoreapp3.1\TanulmanyiRendszer.Domain.AssemblyInfoInputs.cache
-C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.Domain\obj\Debug\netcoreapp3.1\TanulmanyiRendszer.Domain.AssemblyInfo.cs
-C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.Domain\obj\Debug\netcoreapp3.1\TanulmanyiRendszer.Domain.dll
-C:\Users\toth.bence\Desktop\source\PPKE\backend\TanulmanyiRendszer.Domain\obj\Debug\netcoreapp3.1\TanulmanyiRendszer.Domain.pdb

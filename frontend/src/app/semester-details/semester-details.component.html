@@ -1,0 +1,15 @@
+<div *ngIf="semester" class="semester-detail">
+  <h1 *ngIf="!editing">{{ semester.megnevezes }}</h1>
+
+  <div *ngIf="editing">
+    <mat-form-field>
+      <mat-label>Szemeszter név</mat-label>
+      <input matInput [(ngModel)]="semester.megnevezes">
+    </mat-form-field>
+    <button class="save-btn" mat-raised-button color="primary" (click)="saveSemester()">Mentés</button>
+  </div>
+
+  <button class="action-button" mat-raised-button (click)="editing = true">Szerkesztés</button>
+  <button class="action-button" mat-raised-button color="warn" (click)="deleteSemester()">Törlés</button>
+  <button class="action-button" mat-raised-button (click)="back()">Vissza</button>
+</div>

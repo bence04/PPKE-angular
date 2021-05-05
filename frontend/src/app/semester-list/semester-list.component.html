@@ -1,0 +1,28 @@
+<div class="new-item">
+  <mat-form-field class="full-width">
+    <mat-label>Szemeszter név</mat-label>
+    <input matInput [(ngModel)]="semesterName">
+  </mat-form-field>
+  <button class="save-btn" mat-raised-button color="primary" (click)="saveSemester()">Mentés</button>
+</div>
+
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8 table" *ngIf="dataSource">
+
+  <ng-container matColumnDef="ID">
+    <th mat-header-cell *matHeaderCellDef> ID </th>
+    <td mat-cell *matCellDef="let element"> {{element.id}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="Megnevezés">
+    <th mat-header-cell *matHeaderCellDef> Megnevezés </th>
+    <td mat-cell *matCellDef="let element"> {{element.megnevezes}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="Megnyitás">
+    <th mat-header-cell *matHeaderCellDef>  </th>
+    <td mat-cell *matCellDef="let element"> <button mat-raised-button color="primary" (click)="openSemester(element.id)">Megnyitás</button> </td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+</table>
